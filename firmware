@@ -1,7 +1,7 @@
 {
     "version": "1.1.0",
     "version_code": 10100,
-    "firmware_url": "https://github.com/obitokkxi/stm32/releases/download/v1.1.0/firmware.bin",
+    "firmware_url": "https://github.com/obitokkxi/stm32/releases/download/v1.1.0/OTA_App.bin",
     "firmware_size": 40960,
     "firmware_crc32": "A1B2C3D4",
     "min_version": "1.0.0",
